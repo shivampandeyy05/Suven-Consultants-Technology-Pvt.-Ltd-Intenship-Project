@@ -1,11 +1,12 @@
 # HTML5 & CSS3 
 ## Project built with plain HTML and CSS
-### 1.Blog
 
-### 2.CSS3-Animations
+### 1.Blog.
 
-### 3.365-Entertainment
+### 2.CSS3-Animations.
 
-### 4.Voter-Registration
+### 3.365-Entertainment.
 
-#### For more about navigate into each project
+### 4.Voter-Registration.
+
+#### For more about navigate into each project.
